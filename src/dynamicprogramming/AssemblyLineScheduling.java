@@ -1,7 +1,6 @@
 package dynamicprogramming;
 
-import java.util.Arrays;
-
+//15.1 Assembly-line scheduling
 public class AssemblyLineScheduling {
 	
 	private static final int[] a1 = new int[] {
@@ -28,16 +27,11 @@ public class AssemblyLineScheduling {
 	
 	private static final int x2 = 2;
 	
-	private static final int Uninitialized = -1;
-	
 	public static void fastestWay(int[] a1, int[] a2, int[] t1, int[] t2, int e1, int e2, int x1, int x2) {
 		int[] l1 = new int[a1.length];
 		int[] l2 = new int[a1.length];
 		int[] f1 = new int[a1.length];
 		int[] f2 = new int[a2.length];
-		
-		Arrays.fill(f1, Uninitialized);
-		Arrays.fill(f2, Uninitialized);
 		
 		f1[0] = e1 + a1[0];
 		f2[0] = e2 + a2[0];
