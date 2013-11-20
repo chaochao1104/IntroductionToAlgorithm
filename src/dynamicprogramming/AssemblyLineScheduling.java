@@ -26,12 +26,12 @@ public class AssemblyLineScheduling {
 	
 	private static final int x2 = 2;
 	
-	public static void fastestWay(int[] a1, int[] a2, int[] t1, int[] t2, int e1, int e2, int x1, int x2) {
+	public void fastestWay(int[] a1, int[] a2, int[] t1, int[] t2, int e1, int e2, int x1, int x2) {
 		
 	}
 	
 	public static void main(String... args) {
-		fastestWay(a1, a2, t1, t2, e1, e2, x1, x2);
+		new AssemblyLineScheduling().fastestWay(a1, a2, t1, t2, e1, e2, x1, x2);
 	}
 }
 
