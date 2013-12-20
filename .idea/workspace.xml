@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="97b691ec-ac5d-4112-8798-aaf661c88907" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/advanced/dynamicprogramming/KnapsackProblem.java" />
-      <change type="MOVED" beforePath="C:\Users\sunal4\Documents\GitHub\IntroductionToAlgorithm\src\dynamicprogramming\AssemblyLineScheduling.java" afterPath="$PROJECT_DIR$/src/advanced/dynamicprogramming/AssemblyLineScheduling.java" />
-      <change type="MOVED" beforePath="C:\Users\sunal4\Documents\GitHub\IntroductionToAlgorithm\src\dynamicprogramming\MatrixChainMultiplication.java" afterPath="$PROJECT_DIR$/src/advanced/dynamicprogramming/MatrixChainMultiplication.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/IntroductionToAlgorithm.iml" afterPath="$PROJECT_DIR$/IntroductionToAlgorithm.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="97b691ec-ac5d-4112-8798-aaf661c88907" name="Default" comment="" />
     <ignored path="IntroductionToAlgorithm.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -150,7 +142,7 @@
       <file leaf-file-name="ShellSort.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/sort/shell/gap/ShellSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="32" column="21" selection-start="870" selection-end="870" vertical-scroll-proportion="0.29422718" vertical-offset="386" max-vertical-offset="1241">
+            <state line="41" column="8" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.5791434" vertical-offset="386" max-vertical-offset="1241">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -562,7 +554,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1000" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -581,7 +573,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24878837" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3295063" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -700,7 +692,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/sort/shell/gap/ShellSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="32" column="21" selection-start="870" selection-end="870" vertical-scroll-proportion="0.29422718" vertical-offset="386" max-vertical-offset="1241">
+        <state line="41" column="8" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.5791434" vertical-offset="386" max-vertical-offset="1241">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
