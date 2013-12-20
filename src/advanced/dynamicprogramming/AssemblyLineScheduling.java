@@ -1,4 +1,4 @@
-package dynamicprogramming;
+package advanced.dynamicprogramming;
 
 //15.1 Assembly-line scheduling
 public class AssemblyLineScheduling {

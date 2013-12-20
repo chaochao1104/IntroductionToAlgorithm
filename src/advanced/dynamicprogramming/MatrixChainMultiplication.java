@@ -1,4 +1,4 @@
-package dynamicprogramming;
+package advanced.dynamicprogramming;
 
 public class MatrixChainMultiplication {
 
